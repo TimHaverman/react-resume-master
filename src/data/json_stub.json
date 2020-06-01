@@ -2,52 +2,52 @@
     "basics": {
         "name": "Tim Haverman",
         "label": "C# .NET Developer",
-        "picture": "",
+        "picture": "http://127.0.0.1:8080/_DX_3916.jpg",
         "email": "Thaverman@gmail.com",
         "phone": "(618) 409-2610",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "website": "In Progress",
+        "summary": "...",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
+            "address": "",
+            "postalCode": "63118",
+            "city": "St. Louis",
             "countryCode": "US",
-            "region": "California"
+            "region": "Missouri"
         },
         "profiles": [
             {
                 "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
+                "username": "",
+                "url": ""
             }
         ]
     },
     "work": [
         {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
+            "name": " 1 ",
+            "position": " 1 ",
+            "website": " 1 ",
+            "startDate": " 1 ",
+            "summary": " 1 ",
+            "location": "  1 ",
             "highlights": ["Started the company"]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
+            "name": " 2 ",
+            "position": " 2 ",
+            "website": " 2 ",
+            "startDate": " 2 ",
+            "endDate": " 2 ",
+            "summary": " 2 ",
+            "location": " 2 ",
             "highlights": ["Started the company"]
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
+            "name": " 3 ",
+            "position": " 3 ",
+            "website": " 3 ",
+            "summary": " 3 ",
+            "location": " 3 ",
             "highlights": ["Started the company"]
         }
     ],
